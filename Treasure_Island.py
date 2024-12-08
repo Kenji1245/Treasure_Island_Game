@@ -24,7 +24,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 choice1 = input('You\re at a crossroad, where do you want to go? '
-                'Type "left" or "right" :.').lower()
+                'Type "left" or "right" .:').lower()
 
 if choice1 == "left":
     choice2 = input('You\'ve come to a lake. '
